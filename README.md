@@ -1,9 +1,8 @@
 <h2> Hey there! I'm Abhiraj. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="Banner" src="" width="500"/>
 
-<h3 align="center">I'm Abhiraj from India, and I do content on all the adventures I do(Vlogs). I really enjoy learning languages and frameworks like JavaScript, Python, React and React Native, as well as work in WordPress is what I love. I also enjoy wireframing, ui, ux, and design in general.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirajmaid" alt="abhirajmaid" /></a> </p>
+<h1> 😃 About Me </h1>
+<h3 align="left">I'm Abhiraj from India, and I do content on all the adventures I do. I really enjoy learning languages and frameworks like JavaScript, Python, React and React Native, as well as work in WordPress is what I love. I also enjoy wireframing, ui, ux, and design in general.</h3>
 
 <p align="left"> <a href="https://twitter.com/amaid050" target="blank"><img src="https://img.shields.io/twitter/follow/amaid050?logo=twitter&style=for-the-badge" alt="amaid050" /></a> </p>
 
