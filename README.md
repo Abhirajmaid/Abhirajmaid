@@ -1,4 +1,4 @@
-<img align="right" alt="Banner" src="https://raw.githubusercontent.com/Abhirajmaid/Abhirajmaid/main/Copy%20of%20Unnamed%20Design.png" width="1500"/>
+<img align="right" alt="Banner" src="https://raw.githubusercontent.com/Abhirajmaid/Abhirajmaid/main/Copy%20of%20Unnamed%20Design%20(1).png" width="1500"/>
 
 <p align="center">-</p>
 <hr/>
