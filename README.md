@@ -16,7 +16,7 @@ Programming enthusiast. Who loves Web-Development. Currently learning Blockchain
 <hr/>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirajmaid&show_icons=true&locale=en&layout=compact" alt="abhirajmaid" height="60%"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirajmaid&show_icons=true&locale=en" alt="abhirajmaid" </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirajmaid&show_icons=true&locale=en" alt="abhirajmaid" width="50%" </p>
 
 <hr/>
 <h2 align="left">🤝Lets Connect:</h2>
