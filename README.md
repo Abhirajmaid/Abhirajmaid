@@ -3,14 +3,13 @@
 <p align="center">-</p>
 <hr/>
 <h2> 😃 About Me </h2>
-<h4 align="left" color="#6beb34">Hello, Myself Abhiraj from India.
+<h4 align="left" color="#6beb34">Hello, Myself Abhiraj.
         Programming enthusiast. Who loves Web-Development and I'm
-        Web-Developer myself. <br>Work with HTML-CSS, JavaScript, React, react-router, context api, style-components, SASS, GIT, WordPress and lot
+        Web-Developer myself. <br>I Work with HTML-CSS, JavaScript, React, react-router, context api, style-components, SASS, GIT, WordPress and lot
         other technologies. <br> I Run the NEWS media company
-        Eternalmac.com. I lead team of 4 people (including publishers,
-        writers, tech guys). <br>Currently learning Blockchain technology 😍.
+        Eternalmac.com. <br>Currently learning Blockchain technology 😍.
         Working on Web3 and Blockchain Projects. <br> I also
-        do 3d for fun. I Love listening POP songs 🎧😅. <br> If you love my profile fill free to ping me at any social media platform even BitClout😁</h4>
+        do 3d animations fun. I Love listening POP songs 🎧😅. <br> If you love my profile fill free to ping me at any social media platform even BitClout😁</h4>
 
 <!--<p align="left"> <a href="https://twitter.com/amaid050" target="blank"><img src="https://img.shields.io/twitter/follow/amaid050?logo=twitter&style=for-the-badge" alt="amaid050" /></a> </p>
 -->
